@@ -1,5 +1,5 @@
 __Dart tutorial__
-- [` `] [Dart Crash Course #1 - What is Dart?](https://www.youtube.com/watch?v=QGqMJzywasg)
+- [`✔`] [Dart Crash Course #1 - What is Dart?](https://www.youtube.com/watch?v=QGqMJzywasg)
 - [` `] [Dart Crash Course #2 - Dart Basics](https://www.youtube.com/watch?v=NStlixg1RNw)
 - [` `] [Dart Crash Course #3 - Type Annotations](https://www.youtube.com/watch?v=sYG8aTg2a9s)
 - [` `] [Dart Crash Course #4 - Functions](https://www.youtube.com/watch?v=NsrlCADdWdw)
