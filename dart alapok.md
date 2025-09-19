@@ -12,9 +12,9 @@ Dart eredeti oldal:
 
 
 ---
-Youtube tutorial linkek:
-> [Dart Crash Course - by Net Ninja](https://www.youtube.com/watch?v=QGqMJzywasg&list=PL4cUxeGkcC9iVGY3ppchN9kIauln8IiEh)
+Youtube tutorial playlist linkek:
+> [Dart Crash Course - by Net Ninja](https://youtube.com/playlist?list=PL4cUxeGkcC9iVGY3ppchN9kIauln8IiEh&si=Vzq_Y3nkkqOtp6AJ)
 
-> [Flutter Crash Course - by Net Ninja](https://www.youtube.com/watch?v=j_rCDc_X-k8&list=PL4cUxeGkcC9giLVXCHSQmWqlHc9BLXdVx)
+> [Flutter Crash Course - by Net Ninja](https://youtube.com/playlist?list=PL4cUxeGkcC9giLVXCHSQmWqlHc9BLXdVx&si=VdT7jaByCjnSEzYx)
 
-> [Dart Programming for Flutter: Beginners Tutorial  - by Smartherd](https://www.youtube.com/watch?v=5rtujDjt50I&list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q)
+> [Dart Programming for Flutter: Beginners Tutorial  - by Smartherd](https://youtube.com/playlist?list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q&si=2rLDV1yq2HjUL1aj)
