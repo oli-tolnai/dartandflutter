@@ -16,4 +16,9 @@ void main(){
   
   var sum = scores.reduce((prev, current) => prev + current);
   print(sum);
+
+
+  // compute the sum of all length
+  final list = ['a', 'bb', 'ccc'];
+  list.fold(0, (t, e) => t + e.length); // result is 6
 }
