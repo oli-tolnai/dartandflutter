@@ -7,7 +7,7 @@ void main(){
     "second": "venus",
     "third": "earth",
     "fourth": "mars",
-    "fifth": "jupiter"
+    "fifth": "jupiter",
   };
 
   planets["sixth"] = "uranus";

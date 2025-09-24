@@ -20,5 +20,5 @@ void main(){
 
   // compute the sum of all length
   final list = ['a', 'bb', 'ccc'];
-  list.fold(0, (t, e) => t + e.length); // result is 6
+  list.fold(0, (sum, current) => sum + current.length); // result is 6
 }
