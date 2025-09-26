@@ -7,7 +7,7 @@ __Dart tutorial__
 - [`✔`] [Dart Crash Course #6 - Control Flow](https://www.youtube.com/watch?v=5udl_LBpAHk)
 - [`✔`] [Dart Crash Course #7 - Maps](https://www.youtube.com/watch?v=792ek6Y9940)
 - [`✔`] [Dart Crash Course #8 - Classes](https://www.youtube.com/watch?v=R5wAK_kgqjo)
-- [` `] [Dart Crash Course #9 - Method Overriding](https://www.youtube.com/watch?v=Od7UP8FyYu8)
+- [`✔`] [Dart Crash Course #9 - Method Overriding](https://www.youtube.com/watch?v=Od7UP8FyYu8)
 - [` `] [Dart Crash Course #10 - Generics](https://www.youtube.com/watch?v=8MywaeBqFmI)
 - [` `] [Dart Crash Course #11 - Async, Await & Futures](https://www.youtube.com/watch?v=i5qLpkfa8NQ)
 - [` `] [Dart Crash Course #12 - Fetching Data](https://www.youtube.com/watch?v=v-2rWplEDoA)
