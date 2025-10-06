@@ -14,11 +14,11 @@ __Dart tutorial__
 
 ---
 __Flutter tutorial:__
-- [` `] [Flutter Crash Course #1 - What is Flutter?](https://www.youtube.com/watch?v=j_rCDc_X-k8)
-- [` `] [Flutter Crash Course #2 - Installing on Windows](https://www.youtube.com/watch?v=DvZuJeTHWaw)
-- [` `] [Flutter Crash Course #3 - Installing on a Mac](https://www.youtube.com/watch?v=BwKfjzxTGXI)
-- [` `] [Flutter Crash Course #4 - Making a New Flutter Project](https://www.youtube.com/watch?v=adNHZVBd284)
-- [` `] [Flutter Crash Course #5 - Quick Project Overview](https://www.youtube.com/watch?v=qdyt8UO-MqM)
+- [`✔`] [Flutter Crash Course #1 - What is Flutter?](https://www.youtube.com/watch?v=j_rCDc_X-k8)
+- [`✔`] [Flutter Crash Course #2 - Installing on Windows](https://www.youtube.com/watch?v=DvZuJeTHWaw)
+- [`✔`] [Flutter Crash Course #3 - Installing on a Mac](https://www.youtube.com/watch?v=BwKfjzxTGXI)
+- [`✔`] [Flutter Crash Course #4 - Making a New Flutter Project](https://www.youtube.com/watch?v=adNHZVBd284)
+- [`✔`] [Flutter Crash Course #5 - Quick Project Overview](https://www.youtube.com/watch?v=qdyt8UO-MqM)
 - [` `] [Flutter Crash Course #6 - Widgets](https://www.youtube.com/watch?v=L0izVqsaxLI)
 - [` `] [Flutter Crash Course #7 - MaterialApp & Scaffold](https://www.youtube.com/watch?v=U0vS27vqKSo)
 - [` `] [Flutter Crash Course #8 - Stateless Widgets](https://www.youtube.com/watch?v=tDKgJEvhaP8)
