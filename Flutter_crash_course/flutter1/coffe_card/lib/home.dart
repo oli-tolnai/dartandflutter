@@ -8,11 +8,13 @@ class Home extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("My Coffe App", style: TextStyle(
-          color: Colors.white, fontWeight: FontWeight.bold),),
+        title: const Text(
+          "My Coffe App",
+          style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold),
+        ),
         backgroundColor: Colors.brown[700],
         centerTitle: true,
-      ), 
+      ),
       body: Column(
         crossAxisAlignment: CrossAxisAlignment.stretch,
         children: [
@@ -25,7 +27,14 @@ class Home extends StatelessWidget {
             color: Colors.brown[100],
             padding: const EdgeInsets.all(20),
             child: const CoffeePres(),
-          )
+          ),
+          Expanded(
+            child: Image.asset(
+              'assets/img/coffee_bg.jpg',
+              fit: BoxFit.fitWidth,
+              alignment: Alignment.bottomCenter,
+            ),
+          ),
         ],
       ),
     );
